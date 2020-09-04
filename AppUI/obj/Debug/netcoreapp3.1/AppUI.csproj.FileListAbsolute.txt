@@ -1,0 +1,56 @@
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\AppUI.exe
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\AppUI.deps.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\AppUI.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\AppUI.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\AppUI.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\AppUI.pdb
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\E_CommerceApp.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\bin\Debug\netcoreapp3.1\E_CommerceApp.pdb
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI_MarkupCompile.cache
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI_MarkupCompile.lref
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI.g.resources
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI.csproj.CopyComplete
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI.dll
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI.pdb
+C:\Users\hp\OneDrive\Documents\Visual Studio 2019\Projects\E_CommerceApp\AppUI\obj\Debug\netcoreapp3.1\AppUI.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\AppUI.exe
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\AppUI.deps.json
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\AppUI.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\AppUI.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\AppUI.dll
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\AppUI.pdb
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\E_CommerceApp.dll
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\bin\Debug\netcoreapp3.1\E_CommerceApp.pdb
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI_MarkupCompile.cache
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI_MarkupCompile.lref
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI.g.resources
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI.dll
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI.pdb
+C:\Users\hp\OneDrive\Desktop\week-7-task-Bondesvick\AppUI\obj\Debug\netcoreapp3.1\AppUI.genruntimeconfig.cache

@@ -1,0 +1,158 @@
+﻿<Window x:Class="AppUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppUI"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="700" Width="1200"
+        Loaded="MainWindow_OnLoaded">
+    <TabControl>
+
+        <!--  1st Tab  -->
+        <TabItem x:Name="CartTab" Header="Cart Register" GotFocus="Tab_ChangeFocus">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <!-- Cart Side -->
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Column="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" Margin="5">
+                            <Button x:Name="ButtonRefreshCart" Height="60" FontSize="24" Margin="0 0 0 50" Click="ButtonRefreshCart_OnClick">Refresh Cart</Button>
+                            <Button x:Name="ButtonUpdateCart" Height="60" FontSize="24" Margin="0 0 0 50" Click="ButtonUpdateCart_OnClick">Update Cart</Button>
+                            <Button x:Name="ButtonDelFromCart" Height="60" FontSize="24" Click="ButtonDelFromCart_OnClick">Delete from Cart</Button>
+                            <Label VerticalAlignment="Bottom" FontSize="16" Margin="0 0 0 0">Cart:</Label>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1" Margin="5">
+                            <Label FontSize="20" Margin="0 20 0 0">Quantity:</Label>
+                            <TextBox x:Name="QuantityTxt" FontSize="40" Height="60" Margin="0 0 0 50"></TextBox>
+                            <Button x:Name="ButtonAddToCart" Click="ButtonAddToCart_OnClick" Height="60" FontSize="24">Add to Cart</Button>
+                        </StackPanel>
+                    </Grid>
+
+                    <DataGrid Grid.Row="1" x:Name="CartDisplay" ItemsSource="{Binding Path=CartData}" FontSize="20" SelectedCellsChanged="CartDisplay_OnSelectedCellsChanged">
+                    </DataGrid>
+                </Grid>
+
+                <!--   Data side -->
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0">
+                            <TextBox x:Name="ProductSrcBox" Height="30" FontSize="16"></TextBox>
+                            <Button x:Name="ProductSrcBtn" Height="40" FontSize="18" Click="ProductSrcBtn_OnClick">Search by product Name</Button>
+                        </StackPanel>
+
+                        <StackPanel Grid.Column="1">
+                            <TextBox x:Name="IdSrcBox" Height="30" FontSize="16"></TextBox>
+                            <Button x:Name="IdSrcBtn" Height="40" FontSize="18" Click="IdSrcBtn_OnClick">Search by product price</Button>
+                        </StackPanel>
+                    </Grid>
+
+                    <DataGrid ItemsSource="{Binding Path=ProductData}" Grid.Row="1" x:Name="FilterDisplay" FontSize="24">
+                    </DataGrid>
+
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+
+                        <Button x:Name="PrevBtn" Grid.Column="0"  Height="60" FontSize="36" Click="PrevBtn_OnClick">Prev</Button>
+                        <Button x:Name="NextBtn" Grid.Column="1" Height="60" FontSize="36" Click="NextBtn_OnClick">Next</Button>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </TabItem>
+
+        <!--  2nd  Tab -->
+        <TabItem x:Name="ProductTab" Header="Product Register" GotFocus="Tab_ChangeFocus">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1.5*" />
+                    <ColumnDefinition Width="0.5*" />
+                </Grid.ColumnDefinitions>
+
+                <!--   0   -->
+
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0" Margin="10">
+
+                        <StackPanel>
+                            <Label FontSize="16">Product Name:</Label>
+                            <TextBox x:Name="ProductName" FontSize="30" Height="60"></TextBox>
+                            <Label FontSize="16" Margin="0 20 0 0">Cost Price:</Label>
+                            <TextBox x:Name="ProductPrice" FontSize="30" Height="60"></TextBox>
+                            <Label FontSize="16" Margin="0 20 0 0 ">Category:</Label>
+                            <ComboBox x:Name="CategorySelect" Height="40" Margin="0 0 0 0" FontSize="20" ItemsSource="{Binding Path=CategoryList}">
+                            </ComboBox>
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid Grid.Row="1" Margin="10 50 10 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+
+                        <Grid Grid.Column="0">
+                            <StackPanel>
+                                <Button x:Name="ButtonAdd" Click="ButtonAdd_OnClick" FontSize="24" Margin="0 0 3 60" Height="60">Add</Button>
+                                <Button x:Name="ButtonUpdate" Click="ButtonUpdate_OnClick" FontSize="24" Height="60"  Margin="0 0 3 0">Update</Button>
+                            </StackPanel>
+                        </Grid>
+
+                        <Grid Grid.Column="1">
+                            <StackPanel>
+                                <Button x:Name="ButtonDelete" Click="ButtonDelete_OnClick" FontSize="24" Height="60" Margin="0 0 3 60">Delete</Button>
+                                <Button x:Name="ButtonRefresh" Click="ButtonRefresh_OnClick" FontSize="24" Height="60">Refresh</Button>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                </Grid>
+
+                <!--    1     -->
+                <DataGrid Margin="3" Grid.Column="1" x:Name="DataDisplay" ItemsSource="{Binding Path=ProductData}" SelectedCellsChanged="DataDisplay_OnSelectedCellsChanged" FontWeight="Normal" FontSize="16" ></DataGrid>
+
+                <!-- 2 -->
+                <StackPanel Grid.Column="2">
+                    <TextBox x:Name="ProductSrchTxt" Height="40" FontSize="24"></TextBox>
+                    <Button x:Name="ProductSrchBtn" FontSize="18" Height="50" Margin="0 0 0 40" Click="ProductSrchBtn_OnClick">Filter by product name</Button>
+                    <TextBox x:Name="IdSrchTxt" Height="40" FontSize="24"></TextBox>
+                    <Button x:Name="IdSrchBtn" FontSize="18" Height="50" Click="IdSrchBtn_OnClick">Filter by product price</Button>
+                </StackPanel>
+            </Grid>
+        </TabItem>
+    </TabControl>
+</Window>

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E_CommerceApp", "E_CommerceApp\E_CommerceApp.csproj", "{6663607D-E399-47D6-952F-E241CE988ACB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppUI", "AppUI\AppUI.csproj", "{2CE45D5C-ED68-4847-949F-46474B518D66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{BA8B0302-DE66-498F-83CF-4A6FD32630EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6663607D-E399-47D6-952F-E241CE988ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6663607D-E399-47D6-952F-E241CE988ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6663607D-E399-47D6-952F-E241CE988ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6663607D-E399-47D6-952F-E241CE988ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE45D5C-ED68-4847-949F-46474B518D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE45D5C-ED68-4847-949F-46474B518D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE45D5C-ED68-4847-949F-46474B518D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE45D5C-ED68-4847-949F-46474B518D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8B0302-DE66-498F-83CF-4A6FD32630EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8B0302-DE66-498F-83CF-4A6FD32630EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8B0302-DE66-498F-83CF-4A6FD32630EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8B0302-DE66-498F-83CF-4A6FD32630EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250EAB43-3BB6-4700-A36A-49DEDFD09DBE}
+	EndGlobalSection
+EndGlobal
