@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\AppUI\\AppUI.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\AppUI\\AppUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\AppUI\\AppUI.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\AppUI\\AppUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\AppUI\\AppUI.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\AppUI\\AppUI.csproj",
         "projectName": "AppUI",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\AppUI\\AppUI.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\AppUI\\AppUI.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\AppUI\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\AppUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -30,9 +30,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\E_CommerceApp\\E_CommerceApp.csproj": {
-                "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\E_CommerceApp\\E_CommerceApp.csproj"
+              "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\E_CommerceApp\\E_CommerceApp.csproj": {
+                "projectPath": "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\E_CommerceApp\\E_CommerceApp.csproj"
               }
             }
           }
@@ -45,6 +46,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -63,18 +65,18 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\E_CommerceApp\\E_CommerceApp.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\E_CommerceApp\\E_CommerceApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\E_CommerceApp\\E_CommerceApp.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\E_CommerceApp\\E_CommerceApp.csproj",
         "projectName": "E_CommerceApp",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\E_CommerceApp\\E_CommerceApp.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\E_CommerceApp\\E_CommerceApp.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\E_CommerceApp\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\E_CommerceApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -93,6 +95,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -104,6 +107,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.Data.SqlClient": {
               "target": "Package",
@@ -125,7 +129,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

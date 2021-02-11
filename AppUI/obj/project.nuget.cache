@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hovmrSvhEk8sWwAcZPanafGHn99BmifW+Xnb91jbHQ5vqtCV0NM4VOdgpOLsShEGUntmLUHFhoyHhqLZ5yMypg==",
+  "dgSpecHash": "i4lYr1R0IwnmkWeSa9V1jtJaoryrkHgUPn2W6qdYhcus/hRuFOILKD3pAZFpcp0mipsP8bISNKqqUiQXnARJRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\AppUI\\AppUI.csproj",
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\AppUI\\AppUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

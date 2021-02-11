@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6WdZcz9AMh0WjmL8EZiGcQTuo6VFSvwfKz2v3Q2cebLONL/9uIXWkep9SS6bWpaRUQJsRlPQ4NqJlz3YS9FosQ==",
+  "dgSpecHash": "6Af6FBThEFY8v6b5t0raRSkPK/sg0yn+O37pJj7CONclr91cU0kExY65gBf/2weto6+liWb/z0wolx1IVL0URw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\E_CommerceApp\\E_CommerceApp.csproj",
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\E_CommerceApp\\E_CommerceApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

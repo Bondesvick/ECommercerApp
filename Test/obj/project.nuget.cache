@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ai6ob16rjb0+krikgZA0+MADjGOrdLdGDpuk5q3pkkM8iI6ZavsUEGQE6U9cE1yMjw/iMV3bec2M6de70RG8Bg==",
+  "dgSpecHash": "13GtShsJ/GUG4wdwH+//JKM0Sdc3FkFY1OtcfWjV0VMkYqVAriAzuzHp3YyMFclAqcIVHGuOxrRtp4/NDe+YSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Desktop\\week-7-task-Bondesvick\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\E_CommerceApp\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
