@@ -1,3 +1,5 @@
 # An eCommerce App
 
-## Built using C#, SQL and MS SQLServer
+![sreenshot](https://github.com/Bondesvick/ECommercerApp/blob/master/AppUI/assets/Ecommerce2.png?raw=true)
+
+## Built using WPF, C#, SQL, and MS SQLServer
